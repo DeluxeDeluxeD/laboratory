@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/(G) Programs/CLion 2021.2.3/alt_project/libs/data_structures/bitset/bitset.c
+bitset.h
+D:/(G) Programs/CLion 2021.2.3/alt_project/libs/data_structures/bitset/bitset.h
+
+D:/(G) Programs/CLion 2021.2.3/alt_project/libs/data_structures/bitset/bitset.h
+

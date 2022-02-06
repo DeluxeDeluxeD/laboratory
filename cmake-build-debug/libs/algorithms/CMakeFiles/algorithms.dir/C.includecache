@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/(G) Programs/CLion 2021.2.3/alt_project/libs/algorithms/algorithm.c
+algorithm.h
+D:/(G) Programs/CLion 2021.2.3/alt_project/libs/algorithms/algorithm.h
+
+D:/(G) Programs/CLion 2021.2.3/alt_project/libs/algorithms/algorithm.h
+
